@@ -5,7 +5,7 @@
 ## Setup
 add this mod to your project by adding the following into your ``build.gradle``
 ```gradle
-repositories {
+repositori
 	maven { url 'https://wandhoven.ddns.net/maven/' }
 }
 dependencies {
